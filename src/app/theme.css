@@ -1,0 +1,11 @@
+:root {
+  --background: #1a1e17;
+  --text: #e4e8dc;
+  --muted: #7c8770;
+  --border: #333d2a;
+  --accent: #dd865e;
+  --paper: #e9e5d2;
+  --ink: #363c2d;
+  --sans: Arial, "PingFang SC", "Microsoft YaHei", sans-serif;
+  --mono: "Courier New", Courier, "Noto Serif SC", "Songti SC", SimSun, monospace;
+}
